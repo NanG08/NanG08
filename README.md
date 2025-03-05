@@ -3,7 +3,7 @@
 ## 🌟 About Me
 I'm a B.Tech AI student passionate about exploring the intersection of AI with various domains, including healthcare and space science. I aspire to develop AI-driven solutions that create a real-world impact.
 ## 💡 Skills & Tech Stack:
-AI/ML: Python, TensorFlow, Scikit-Learn
+AI/ML: Python, TensorFlow, Scikit-Learn , OpenCV
 
 Web Dev:  Firebase, JavaScript
 
