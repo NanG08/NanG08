@@ -14,6 +14,7 @@ Databases: MySql, PostgreSQL, Firebase Realtime Database
 📌 I have beginner-level expertise in most areas, except for Python and its libraries, where I have an intermediate level of experience.
 ## 📚 Learning & Certifications:
 NPTEL Courses:
-    The Joy of Computing using Python
+    
+The Joy of Computing using Python
     
 Python for Data Science
