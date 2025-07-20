@@ -15,4 +15,5 @@ Databases: MySql, PostgreSQL, Firebase Realtime Database
 ## 📚 Learning & Certifications:
 NPTEL Courses:
     The Joy of Computing using Python
-    Python for Data Science
+    
+Python for Data Science
