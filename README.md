@@ -21,8 +21,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 Databases:
 MySQL, PostgreSQL, Firebase Realtime Database
 
-**Programming Fundamentals:**  
-C (Basics), Java (Basics)
+Programming Fundamentals:   C (Basics), Java (Basics)
 
 ---
 
