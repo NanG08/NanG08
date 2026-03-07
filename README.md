@@ -30,3 +30,4 @@ Programming Fundamentals:   C (Basics), Java (Basics)
 > CCNA: Introduction to Networks [CISCO]  
 > The Joy of Computing using Python [NPTEL]   
 > Python for Data Science [NPTEL]
+> Fundamentals Of Deep Learning [NVIDIA]
