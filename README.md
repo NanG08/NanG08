@@ -21,6 +21,7 @@
 
 - 🥇 Winner — HackAIthon at IISc Bangalore
 - 🏅 Top 5 Finalist — Samsung EnnovateX National Innovation Challenge
+- 🏅 Top 7 Finalist — HackSmart [Battery Smart X AWS]
 - 🎤 Presenter — India AI Impact Summit 2026
 - 🎓 General Secretary, Hardly Human AI — Amity University Tech Society
 
@@ -45,6 +46,7 @@
 
 - Fundamentals of Deep Learning — NVIDIA
 - CCNA: Introduction to Networks — Cisco
+- AWS AI Practitioner Challenge - Udacity
 - Python for Data Science — NPTEL
 
 ---
