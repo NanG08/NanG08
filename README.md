@@ -46,7 +46,7 @@
 
 - Fundamentals of Deep Learning — NVIDIA
 - CCNA: Introduction to Networks — Cisco
-- AWS AI Practitioner Challenge - Udacity
+- AWS AI Practitioner Challenge — Udacity
 - Python for Data Science — NPTEL
 
 ---
