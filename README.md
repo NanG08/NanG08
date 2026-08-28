@@ -20,6 +20,7 @@
 ## 🏆 Highlights
 
 - 🥇 Winner — HackAIthon at IISc Bangalore
+- 🥇Winner (2nd) — PSB Surakhsha Manthan 2026
 - 🏅 Top 5 Finalist — Samsung EnnovateX National Innovation Challenge
 - 🏅 Top 7 Finalist — HackSmart [Battery Smart X AWS]
 - 🎤 Presenter — India AI Impact Summit 2026
@@ -30,7 +31,7 @@
 ## 🛠️ Tech Stack
 ```python
 {
-  "Languages"  : ["Python", "SQL", "C (Basics)", "Java (Basics)"],
+  "Languages"  : ["Python", "SQL", "C/C++ (Basics)", "Java (Basics)"],
   "AI/ML"      : ["PyTorch", "TensorFlow", "Keras", "scikit-learn", "Hugging Face"],
   "Vision"     : ["OpenCV", "YOLO", "Vision Transformers", "CNNs"],
   "NLP/Audio"  : ["Wav2Vec2", "Librosa", "spaCy", "NLTK", "Whisper"],
