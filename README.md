@@ -1,62 +1,92 @@
-<h1 align="center">Hi, I'm Nandika Gupta</h1>
+ <!-- HERO -->
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/nandikagupta03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/nandikagupta_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://huggingface.co/NanG01"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://www.kaggle.com/gnandika"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="mailto:guptanandika19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:FF6B35&height=180&section=header&text=Nandika%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<h3 align="center"> B.Tech AI Student, Amity University AI/ML Student • Multimodal AI • Speech & Vision</h3>
+<a href="https://linkedin.com/in/nandikagupta03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/nandikagupta_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://huggingface.co/NanG01"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+<a href="https://www.kaggle.com/gnandika"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:guptanandika19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<p align="center">
-  Building AI systems that can see, hear, understand, and interact with the real world.
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;Exploring+Multimodal+AI%2C+Speech+%26+Vision;Building+AI+systems+for+the+real+world;Founder+%40+Restrct" />
 
-## Featured Projects
+**Final-year AI undergraduate · Amity University**
 
-| Project | What it does |
-|---|---|
-| [VisionQ](https://huggingface.co/spaces/NanG01/visionq) | Local visual AI system for object detection, OCR, visual embeddings, memory, and retrieval |
-| [ListenIQ](https://github.com/Team-Manusmriti/ai-challenge-submission-project-manusmriti) | Privacy-first, on-device multimodal AI assistant combining vision, audio, and contextual memory, built the vision and audio pipelines |
-| [Recover](https://github.com/NanG08/recover) | AI-powered payment recovery engine using intent recognition, FSM-based decision making, WhatsApp, and voice outreach |
-| [Clyr](https://clyr-privacy.vercel.app/) | AI-powered video/image processing pipeline for visual understanding and analysis |
-| [ResonAI](https://github.com/NanG08/ReasonAI) | Emotion-aware speech AI that detects and models emotional cues from speech |
-| [NavSwap](https://navswap.vercel.app/) | AI microservice for EV battery-swap management |
+Building reliable AI systems that interact with the real world.
+
+</div>
 
 ---
 
-## Highlights
+## About
+
+I'm an AI undergraduate interested in building intelligent systems that go beyond conventional interfaces.
+
+My interests in **computer vision, speech AI tasks, and applied machine learning**.
+
+- Exploring practical applications of AI through research, experimentation, and building.
+- Interested in privacy-first and on-device AI systems.
+- Building **Restrct** — exploring entrepreneurship alongside engineering.
+- Always curious about how AI can solve problems beyond the screen.
+
+---
+
+## Selected Projects
+
+| Project | Description |
+|:--|:--|
+| [**VisionQ**](https://huggingface.co/spaces/NanG01/visionq) | Local visual AI system combining object detection, OCR, visual embeddings, memory, and retrieval. |
+| [**ListenIQ**](https://github.com/Team-Manusmriti/ai-challenge-submission-project-manusmriti) | Privacy-first multimodal AI assistant combining vision, audio, and contextual memory. Designed and developed the vision and audio pipelines. |
+| [**Recover AI**](https://github.com/NanG08/recover) | AI-powered payment recovery engine using intent recognition, FSM-based decision-making, WhatsApp, and voice outreach. |
+| [**Clyr**](https://clyr-privacy.vercel.app/) | AI-powered image and video processing pipeline for visual understanding and analysis. |
+| [**ResonAI**](https://github.com/NanG08/ReasonAI) | Emotion-aware speech AI exploring emotional cue detection and modelling from speech. |
+| [**NavSwap**](https://navswap.vercel.app/) | AI-powered microservice for EV battery-swap management. |
+
+---
+
+## Recognition
 
 | Achievement | Event |
-|---|---|
-| **Winner** | HackAIthon, IISc Bangalore |
-| **2nd Place** | PSB Suraksha Manthan 2026 |
-| **Top 5 Finalist** | Samsung EnnovateX National Innovation Challenge |
-| **Top 7 Finalist** | HackSmart × Battery Smart & AWS |
-| **Presenter** | India AI Impact Summit 2026 |
+|:--|:--|
+| 🏆 **Winner** | HackAIthon · IISc Bangalore |
+| 🥈 **2nd Place** | PSB Suraksha Manthan |
+| **Top 5** | Samsung EnnovateX · National AI Innovation Challenge |
+| **Top 7** | HackSmart · Battery Smart × AWS |
 
 ---
 
 ## Tech Stack
 
-| Area | Stack |
-|---|---|
-| **Languages** | Python · C/C++ · Java |
-| **AI / ML** | PyTorch · TensorFlow · scikit-learn · Hugging Face |
-| **Vision** | OpenCV · YOLO · Vision Transformers |
-| **Speech / NLP** | Whisper · Wav2Vec2 · Librosa · spaCy |
-| **Backend** | FastAPI · Flask · Firebase |
-| **Data** | MySQL · PostgreSQL · SQLite · FAISS · ChromaDB |
-| **Tools** | Git · GitHub · VS Code · Jupyter · Kaggle |
+<div align="center">
+  <img src="./assets/tech-stack.gif" width="100%" alt="Animated Tech Stack" />
+</div>
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/NanG08?template=classic&config.timezone=Asia%2FKolkata&plugin_languages=1&plugin_languages_limit=5&plugin_languages_sections=most-used" width="100%" />
+
+</div>
 
 ---
 
 ## Currently Exploring
 
- Multimodal AI - On-device AI - Speech & voice systems - Computer vision - AI agents - Deploying ML systems in real-world applications
+`Multimodal AI` · `On-device AI` · `Speech & Voice Systems` · `Computer Vision` · `AI Agents` · `ML Deployment`
 
 ---
+
+<div align="center">
+
+**Building, experimenting, and learning — one project at a time.**
+
+<a href="https://www.restrct.com/"><img src="https://img.shields.io/badge/Founder-Restrct-8B5CF6?style=for-the-badge" /></a>
+<a href="https://www.restrct.com/"><img src="https://img.shields.io/badge/Visit-Restrct-171717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
