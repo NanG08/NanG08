@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;Exploring+Multimodal+AI%2C+Speech+%26+Vision;Building+AI+systems+for+the+real+world;Founder+%40+Restrct" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;Exploring+Multimodal+AI;Building+AI+systems+for+the+real+world;Founder+%40+Restrct" />
 
 **Final-year AI undergraduate · Amity University**
 
@@ -43,7 +43,7 @@ My interests in **computer vision, speech AI tasks, and applied machine learning
 | [**Recover AI**](https://github.com/NanG08/recover) | AI-powered payment recovery engine using intent recognition, FSM-based decision-making, WhatsApp, and voice outreach. |
 | [**Clyr**](https://clyr-privacy.vercel.app/) | AI-powered image and video processing pipeline for visual understanding and analysis. |
 | [**ResonAI**](https://github.com/NanG08/ReasonAI) | Emotion-aware speech AI exploring emotional cue detection and modelling from speech. |
-| [**NavSwap**](https://navswap.vercel.app/) | AI-powered microservice for EV battery-swap management. |
+| [**NavSwap**](https://navswap.vercel.app/) | Agentic AI Platform for BaaS Platform. |
 
 ---
 
@@ -54,7 +54,9 @@ My interests in **computer vision, speech AI tasks, and applied machine learning
 | 🏆 **Winner** | HackAIthon · IISc Bangalore |
 | 🥈 **2nd Place** | PSB Suraksha Manthan |
 | **Top 5** | Samsung EnnovateX · National AI Innovation Challenge |
-| **Top 7** | HackSmart · Battery Smart × AWS |
+| **Top 7** | HackSmart · Battery Smart × AWS|
+
+#### Presented NavSwap at India AI Summit 2026
 
 ---
 
