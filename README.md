@@ -61,17 +61,7 @@ My interests in **computer vision, speech AI tasks, and applied machine learning
 ## Tech Stack
 
 <div align="center">
-  <img src="./assets/tech-stack.gif" width="100%" alt="Animated Tech Stack" />
-</div>
-
----
-
-## GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/NanG08?template=classic&config.timezone=Asia%2FKolkata&plugin_languages=1&plugin_languages_limit=5&plugin_languages_sections=most-used" width="100%" />
-
+  <img src="./tech_stack_carousel.gif" width="100%" alt="Animated Tech Stack" />
 </div>
 
 ---
